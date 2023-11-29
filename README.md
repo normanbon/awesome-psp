@@ -123,4 +123,4 @@ Note: not every project listed here is still maintained and some aren't open-sou
 them on various platforms.
 
 ## Support
-You could help this list grow by submitting an [issue](https://github.com/normanbon/awesome-psp/issues) or by donating on Open Collective, [PayPal](https://www.paypal.com/paypalme/normanbon) or at this address.
+You could help this list grow by submitting an [issue](https://github.com/normanbon/awesome-psp/issues) or by donating on [PayPal](https://www.paypal.com/paypalme/normanbon).
